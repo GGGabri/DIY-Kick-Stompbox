@@ -1,0 +1,33 @@
+DIY Kick Stompbox
+Copyright (c) 2026 3Dvarius. All rights not granted below are reserved.
+
+PROGRAM, SOUNDS, SAMPLE CONVERTER, WIRING DIAGRAM AND BUILD GUIDE
+(stompbox_kick.ino, sample_a.h, sample_b.h,
+ sample_converter.html, wiring_diagram.png, the PDF guide)
+
+Licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives
+4.0 International License (CC BY-NC-ND 4.0).
+
+You are free to:
+  Share - copy and redistribute the material in any medium or format,
+          unchanged, for non-commercial purposes.
+Under the following terms:
+  Attribution    - give appropriate credit and provide a link to the license.
+  NonCommercial  - you may not use the material for commercial purposes.
+  NoDerivatives  - if you remix, transform, or build upon the material, you
+                   may not distribute the modified material.
+
+Changing the settings (e.g. SENSITIVITY) or the sounds for your own pedal
+is fine:
+just do not publish or sell modified versions.
+
+Full license text: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+
+The kick sound in sample_data.h is an original synthesized sound made for
+this pedal, covered by the same licence as the program.
+
+3D MODEL
+
+The 3D model of the case is published separately under the Standard Digital
+File License: personal use only; no sharing of the files, no remixes, no
+selling of the files or of printed parts.
