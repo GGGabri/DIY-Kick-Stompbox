@@ -1,8 +1,10 @@
 # DIY Kick Stompbox - program for the Arduino Nano
 
 by **3Dvarius**. A battery-powered kick drum pedal: stomp it and it plays a kick through a guitar cable.
-The 3D model and the print profile are on MakerWorld; this repository has the program, the sounds,
-the sample converter, the wiring diagram and the build guide.
+
+**3D model and print profiles:** [Kick Stompbox on MakerWorld](https://makerworld.com/models/3587093-kick-stompbox)
+
+This repository has the program, the sounds, the sample converter, the wiring diagram and the build guide.
 
 ## Download
 
